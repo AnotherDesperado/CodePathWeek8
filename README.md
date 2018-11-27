@@ -38,4 +38,4 @@ Vulnerability #2: CSRF
 
 ## Notes
 
-Sometimes it's difficult to know wether or not it works: for vulnerability #2 for the blue site I didn't realize that I had to load back the site instead of just reloading the page (thus, Blue 2.5).
+Sometimes it's difficult to know wether or not it works: for vulnerability #2 for the blue site I didn't realize that I had to load back the site instead of just reloading the page (thus, Blue 2.5). I couldn't get the CRSF attack on the red site to quite work.
